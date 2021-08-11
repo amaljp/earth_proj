@@ -1,4 +1,6 @@
-# notes
-Py learn notes. Quick references.
+# What?
+Python learning notes. Quick references.
+
+
 
 
